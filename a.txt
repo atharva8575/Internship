@@ -1,0 +1,34 @@
+## Week 1 — Python Foundations & Dev Environment
+**Topics**
+
+- Syntax, data types, control flow, functions
+
+- Data structures: lists, dicts, sets, tuples, comprehensions, lambda function, list comprehension
+
+- OOP: classes, inheritance, dunder methods
+
+- Error handling, modules, packages
+
+- Logging in python
+
+- Virtual environments (venv / conda), pip
+
+- Git & GitHub: clone, commit, branch, PR
+
+- Tooling: VS Code, formatters (black/ruff), type hints
+
+ 
+
+**Hands-on:** Daily small scripts; set up a clean dev environment and a GitHub repo.
+
+ 
+
+**Deliverable:** A small CLI application (e.g., expense tracker or quiz app) with OOP structure, pushed to GitHub.
+
+ 
+
+explain frist line
+
+
+
+# virtual enviroment creation               python -m venv myenv          myenv\Scripts\activate
