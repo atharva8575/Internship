@@ -1,0 +1,5 @@
+print("Please Select Option")
+# print("1 For Income Adding")
+# print("2 For Expence Adding")
+# print("3 For Availabel Balance")
+# print("4 For Checking all expences")
